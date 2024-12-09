@@ -145,4 +145,4 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 ---
 
 ## Author
-Developed by [Your Name](https://github.com/your-username).
+Developed by [Jayesh's Team](https://github.com/your-username).
